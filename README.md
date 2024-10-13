@@ -24,8 +24,14 @@ In the process of data cleaning and preparation i performed the following action
 ## DATA SOURCE
 The primary source of the data is gotten from ms excel and this an open source data that can easily be downloaded from an open source online  
 ## DATA ANALYSIS 
-1. ```SELECT *FROM TABLE 1 WHERE CONDITION =TRUE```
- 2. ```SELECT* =IFS(J2<=20,"LOW",J2<=50,"MEDIUM",J2>50,"HIGH")```
+1. ``` SQL
+   SELECT * FROM TABLE 1
+   WHERE CONDITION =TRUE
+   ```
+    ``` SQL
+   SELECT * =IFS(J2<=20,"LOW",J2<=50,"MEDIUM",J2>50,"HIGH")
+   WHERE CONDITION =TRUE
+ 8.  ```
 ## EXPLORATORY DATA ANALYSIS  
 EDA involved the exploring of the data to answer some questions about the data such as
 - 
