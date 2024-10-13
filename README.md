@@ -1,7 +1,7 @@
 ## SKILLHARVEST-PROJECT Inventory
 ## Skill Harvest Data Inventory
 
-This is where I did a step-to-step documentation data  analysis of my assignment  and project while learning in Skill Harvest Academy
+This is where I did a step-to-step documentation data  analysis of my assignment and project while learning in Skill Harvest Academy
 
 
 ## Skill Harvest Data Inventory
@@ -35,4 +35,7 @@ The primary source of the data is gotten from ms excel and this an open source d
  8.  ```
 ## EXPLORATORY DATA ANALYSIS  
 EDA involved the exploring of the data to answer some questions about the data such as
-- 
+- total region by revenue
+- top five markets and thrie revenue
+- bottom five stores by units sold
+- top ten store by revenue
