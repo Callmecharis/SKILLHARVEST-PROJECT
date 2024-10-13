@@ -12,15 +12,16 @@ This data analysis project aims to generate insight into the sales performance o
   
   ## TOOLS USED 
   - Ms Excel [Download Here](http//www.Microsoftexcel.com)
+  - Googlesheet[Download Here](http//www.googlesheet.com)
   - SQL
-  - Google sheet
-  - Power BI
+- Power BI
     
  ## DATA CLEANING AND PREPARATION
 In the process of data cleaning and preparation i performed the following actions  
 1. data loading
 2. retriving missing data
 3. Data cleaning and formating
+4. data summerisation
 ## DATA SOURCE
 The primary source of the data is gotten from ms excel and this an open source data that can easily be downloaded from an open source online  
 ## DATA ANALYSIS 
